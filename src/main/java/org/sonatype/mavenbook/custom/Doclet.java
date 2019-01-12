@@ -5,7 +5,7 @@ import com.sun.javadoc.RootDoc;
 import org.apache.commons.lang3.RandomStringUtils;
 
 /**
- * Hello world!
+ * Hello world! $$
  */
 public class Doclet {
     public static boolean start(RootDoc root) {
